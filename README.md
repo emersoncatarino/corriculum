@@ -1,1 +1,1 @@
-# corriculum
+#curriculo
